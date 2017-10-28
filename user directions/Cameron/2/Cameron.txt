@@ -1,0 +1,6 @@
+Walk towards Coles. Once you get there, forwards and to the right, you'll see Myer. Go to Myer. Then the goal will be more or less straight ahead.
+USER POINTS
+5,5
+10.000000,10.000000
+50.000000,25.000000
+51,43

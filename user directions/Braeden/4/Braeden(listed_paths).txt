@@ -1,0 +1,9 @@
+Directions
+Turn left and walk about 24 meters until you reach Myer ,from there
+Turn Right and walk about 26 meters and then 
+Turn Right and walk about 23 meters, at this point you will reach your destination
+Direction Points
+39.000000,46.000000
+50.000000,25.000000
+76.000000,27.000000
+92.000000,43.000000

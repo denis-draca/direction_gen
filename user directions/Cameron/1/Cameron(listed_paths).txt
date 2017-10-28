@@ -1,0 +1,7 @@
+Directions
+Turn Right and walk about 7 meters until you reach Coles ,from there
+Turn left and walk about 25 meters, at this point you will reach your destination
+Direction Points
+5.000000,5.000000
+10.000000,10.000000
+35.000000,10.000000

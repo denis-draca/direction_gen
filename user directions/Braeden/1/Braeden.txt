@@ -1,0 +1,6 @@
+East for 10 meters, southeast for 10 metres north east for 10 metres
+USER POINTS
+5,5
+17.000000,9.000000
+28.000000,17.000000
+35,10

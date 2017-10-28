@@ -1,0 +1,10 @@
+Turn around
+Move forward untill you see Myer
+Turn to face Myer
+Move towards Myer untill you see the destination on your right
+Move towards the destination
+USER POINTS
+5,5
+5.000000,19.000000
+42.000000,21.000000
+51,43

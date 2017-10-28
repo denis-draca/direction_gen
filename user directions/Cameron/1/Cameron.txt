@@ -1,0 +1,5 @@
+Walk  to Coles, then the goal should be directly on your left.		
+USER POINTS
+5,5
+10.000000,10.000000
+35,10

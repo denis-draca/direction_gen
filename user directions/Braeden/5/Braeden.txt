@@ -1,0 +1,6 @@
+South for 10 metres and then east for 40 metres suth again for another 10 metres
+USER POINTS
+5,5
+5.000000,22.000000
+89.000000,22.000000
+90,43

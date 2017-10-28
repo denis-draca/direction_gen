@@ -1,0 +1,5 @@
+If you look to your left you can see Myers and Wollies further down. Walk towards Wollies, but as you reach the wall turn right and your destination is about 10 meters ahead.
+USER POINTS
+34,46
+76.000000,26.000000
+92,43

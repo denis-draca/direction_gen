@@ -1,0 +1,9 @@
+errors:
+ a_star: "error_messages/a_start"
+ main_path: "error_messages/main_path"
+paths:
+ a_star: "/capstone/raw/path"
+ main_path: "capstone/main_path/text"
+ main_path_points: "capstone/main_path/points"
+ orientation: "capstone/robot/orientation"
+shutdown: "/capstone/shutdown"

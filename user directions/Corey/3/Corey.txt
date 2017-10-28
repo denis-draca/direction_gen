@@ -1,0 +1,6 @@
+Turn to face the destination
+Move towards the destination
+USER POINTS
+34,5
+43.000000,25.000000
+51,43

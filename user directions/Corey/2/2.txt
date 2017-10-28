@@ -1,0 +1,5 @@
+Turn around
+Move forward untill you see Myer
+Turn to face Myer
+Move towards Myer untill you see the destination on your right
+Move towards the destination

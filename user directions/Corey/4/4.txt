@@ -1,0 +1,4 @@
+Turn to face Woolies
+Move towards woolies untill you see the destination on your right
+Turn to face the destination
+Move towards the destination

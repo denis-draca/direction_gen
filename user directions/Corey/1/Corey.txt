@@ -1,0 +1,10 @@
+Face Right
+Move towards the wall
+Face South
+Move forward untill you see the destination on your left
+Move towards the destination
+USER POINTS
+5,5
+15.000000,5.000000
+21.000000,15.000000
+35,10

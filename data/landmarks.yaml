@@ -1,0 +1,10 @@
+landmark0: 
+ location: [10,10]
+ name: "Coles"
+landmark1: 
+ location: [50,25]
+ name: "Myer"
+landmark2:
+ location: [80,10]
+ name: "Woolworths"
+count: 3

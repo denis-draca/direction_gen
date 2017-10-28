@@ -1,0 +1,6 @@
+20 mtres south, past coles and then turn east for 25 metres and south east 10 metres
+USER POINTS
+5,5
+5.000000,25.000000
+44.000000,25.000000
+51,43

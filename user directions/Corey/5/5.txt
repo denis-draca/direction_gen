@@ -1,0 +1,6 @@
+Face south
+Move south untill you see Myer on your left
+Face Myer
+Move past Myer untill you see the destination on yor right
+Face the destination
+Move towards the destintion

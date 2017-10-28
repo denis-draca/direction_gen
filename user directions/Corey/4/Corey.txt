@@ -1,0 +1,8 @@
+Turn to face Woolies
+Move towards woolies untill you see the destination on your right
+Turn to face the destination
+Move towards the destination
+USER POINTS
+34,46
+77.000000,17.000000
+92,43

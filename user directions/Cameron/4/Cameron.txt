@@ -1,0 +1,6 @@
+Turn left and walk towards Myer. Once you get to Myer, go directly east until you're a little past Woolies, then the goal should be to your right.
+USER POINTS
+34,46
+50.000000,25.000000
+84.000000,25.000000
+92,43
